@@ -1,0 +1,7 @@
+test-1 target color is yellow
+
+tracks a yellow chair across the screen
+
+test-2 target color is green
+
+tracks a green ruler across the screen
